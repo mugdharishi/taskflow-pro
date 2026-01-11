@@ -1,6 +1,6 @@
-# TaskFlow Pro
+# TaskFlow Pro – Distributed Task Management System
 
-TaskFlow Pro is a full-stack task management system designed to help users manage tasks efficiently with secure authentication and scalable architecture.
+A production-ready full-stack system demonstrating frontend performance, backend scalability, async processing, and DevOps practices.
 
 ## Features
 - User authentication and authorization using JWT
